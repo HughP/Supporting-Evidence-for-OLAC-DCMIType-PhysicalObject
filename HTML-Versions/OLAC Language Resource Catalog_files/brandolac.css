@@ -1,0 +1,68 @@
+body.sidebar {
+     background-image: url(../images/olac/olacsidebar222.jpg);
+	 }
+
+body.nosidebar {
+     background-image: url(../images/olac/olacnosidebar26.jpg);
+}
+body.nosidebar #sidestrip, body.sidebar #sidestrip {
+     background-image: url(../images/olac/olacsidestrip.jpg);
+	 }
+#sidestrip {
+height:696px;
+width:26px;
+display: block;
+z-index: 10;
+}
+body.sidebar #col2 {
+    background-image: none;
+    padding-bottom: 6em;
+    }
+#logo { 
+	background-image:url(../images/olac/logoolac.gif);
+	top: 2px; 
+	left: 83px; 
+	width: 158px; 
+	height: 91px;
+	}
+#toplining {     
+	 background-image: url(../images/olac/olactop.jpg);
+	background-position: top left;
+	background-repeat:no-repeat;
+	width: 16.33em;
+	}
+body.sidebar #toplining {  
+	height: 731px !important;
+	}
+body.nosidebar #toplining {  
+	height: 310px !important;
+	}
+#poweredby {
+	background-image:url(../images/lucretius/lucretiuspoweredby.gif);
+	display: block;
+	}
+.deliveredbyshield {
+	padding-right: 27px;}
+#pfptop {
+	padding:0.18em 37px 0 0;
+	width:22.5em;
+	}
+#navlinks {background-image:url(../images/common/shieldnlink.gif);
+	background-repeat: no-repeat;
+	background-position: right 3px;
+}
+#col1, #col3 {font-family: "Arial Unicode MS", "Lucida Grande",sans-serif;}
+/*#poweredby {
+	background-image:url(../images/common/olacshield.gif);
+	display: block;
+	height: 40px;
+	text-indent: -32px;
+	padding-left: 32px;
+	letter-spacing: .01em;
+	font-family: Verdana, Arial, sans-serif;
+	font-style: oblique;
+	}
+#poweredby img {
+height:20px;
+width:32px;
+}*/

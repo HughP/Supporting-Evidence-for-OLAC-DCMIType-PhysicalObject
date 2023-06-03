@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2023-06-03T00:49:50Z</responseDate><request verb="GetRecord" identifier="oai%3Aindigenousguide.amphilsoc.org%3A10142" metadataPrefix="olac">http://www.language-archives.org/cgi-bin/olaca3.pl</request><GetRecord><record><header><identifier>oai:indigenousguide.amphilsoc.org:10142</identifier><datestamp>2020-03-02</datestamp></header><metadata><olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="
+http://purl.org/dc/elements/1.1/
+http://www.language-archives.org/OLAC/1.1/dc.xsd
+http://purl.org/dc/terms/
+http://www.language-archives.org/OLAC/1.1/dcterms.xsd
+http://www.language-archives.org/OLAC/1.1/
+http://www.language-archives.org/OLAC/1.1/olac.xsd
+"><dc:title>Pennacook materials, Frank G. Speck Papers</dc:title><dc:contributor>Speck, Frank G. (Frank Gouldsmith), 1881-1950</dc:contributor><dcterms:spatial>Aquinnah</dcterms:spatial><dc:date>Undated</dc:date><dc:description>
+			Speck's notes on Pennacook and other Native peoples of New England. This 21-page notebook contains Pennacook, Mashpee, Gay Head, Cape Cod Indian genealogical and population notes; miscellaneous Pennacook notes; approximately 3 slips and 2 pages of loose notes; and botanical specimens.
+		</dc:description><dcterms:extent>21 pages</dcterms:extent><dc:identifier>https://indigenousguide.amphilsoc.org/entry/10142</dc:identifier><dc:language xsi:type="olac:language" olac:code="eng"/><dc:subject>Pennacook</dc:subject><dc:subject>New England--History</dc:subject><dc:subject>Massachusetts--History</dc:subject><dc:subject>Botany</dc:subject><dc:subject>Population</dc:subject><dc:subject>Botanical specimens</dc:subject><dc:subject>Genealogy</dc:subject><dc:type>Notes</dc:type><dc:type xsi:type="olac:linguistic-type" olac:code="primary_text"/><dc:type>Specimens</dc:type><dc:type xsi:type="dcterms:DCMIType">Text</dc:type><dc:type xsi:type="dcterms:DCMIType">PhysicalObject</dc:type></olac:olac></metadata></record></GetRecord></OAI-PMH>

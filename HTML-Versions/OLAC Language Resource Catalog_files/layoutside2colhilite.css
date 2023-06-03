@@ -1,0 +1,220 @@
+#col1, #fcol1 {float: none;}
+#widgetcol3, #fwidgetcol3{float: right;}
+#col2, #fcol2{float: left;}/*sidebar*/
+/*altsearch padding-top:*/
+#col1 {	
+     padding-top: 3.25em;
+	}
+#col1, #fcol1 {
+     margin-left: 17em; 
+	margin-right: 26%; 
+	width: auto;
+	}
+
+#fcol1 {
+	padding-top: 1.58em;
+	}
+.sidebar #col2 {	
+     padding: 0 0 15em 0;
+	}
+#fcol2 {	
+     padding-top: 1.58em;
+	}
+#widgetcol3, #fwidgetcol3 {
+     width:25%; 
+	min-width: 15em;
+	padding-left:0;
+	margin-left: 0;
+	}
+#widgetcol3, #fwidgetcol3 {
+     padding-top:1.63em;
+	}
+#widgetcol3 {
+     display: block;
+	}
+
+/*change: col2 padding-top: .5em for non-pennpage stylesheet*/	
+/*for altsearch tool*/
+.aftersearchshim {
+	height: 2.5em;
+	}
+#col2 .shim {
+	height: 0;
+	}
+/* widgetcol3 directives*/
+
+#widgetcol3 .colunitheader, #widgetcol3 .standaloneheader {
+	 font-size: 1em; 
+	 }
+#widgetcol3 .standaloneheader {
+	color: #000;
+	} 
+#widgetcol3 .recordDescription, #widgetcol3 .headerclosedarrow, #widgetcol3 .recordDescription a, #widgetcol3 .headerclosedarrow a, #widgetcol3 .recordDescription a:visited, #widgetcol3 .headerclosedarrow a:visited, #widgetcol3 .colunitheader, #widgetcol3 .colunitheader a, #widgetcol3 .colunitheader a:visited, #widgetcol3 .recordDescription, a.showall, a.dlabrowselink, a:visited.showall, a.dlabrowselink:visited  {
+     color: #666;
+	}
+
+#widgetcol3 .colunitheader a:hover, #widgetcol3 .colunitheader a:visited:hover, #widgetcol3 .recordDescription a:hover, #widgetcol3 .headerclosedarrow a:hover, #widgetcol3 .recordDescription a:visited:hover, #widgetcol3 .headerclosedarrow a:visited:hover, a:hover.showall, a:hover.dlabrowselink, a:hover:visited.showall, a.dlabrowselink:hover:visited {
+	 text-decoration: underline;
+	 color: #c60;
+	}
+#widgetcol3 {
+     background-color: #fff;
+	}
+#widgetcol3 .colunitheader { 
+     background-color: #f5f5f5; 
+	}
+#widgetcol3 .standaloneheader {
+	background-color: transparent; 
+	background: transparent;
+	}
+#widgetcol3 .dot {
+	background-image:url(../images/common/dotwidgetcol10px.gif);	
+	}
+#widgetcol3 .recordDescription {
+	background-image: url(../images/common/arrowopenwidgetcol3.gif);
+	}
+#widgetcol3 .headerclosedarrow {
+     background-image: url(../images/common/arrowclosedwidgetcol3.gif);	
+	}
+#widgetcol3 .colunitheader { 
+	border-bottom: solid 1px #fff; 
+	}
+#widgetcol3 .standaloneheader { 
+	border-bottom: none;
+	}
+#widgetcol3 .colunit {
+	line-height: 115%; 
+	border: dotted 1px #999;
+	}	
+#widgetcol3 .dotlist {
+     padding: 0 0 0 11px;
+	margin: .33em 1.67em 0 0;
+	}
+#widgetcol3 .dot {
+	 padding-bottom: .5em; 
+	 margin-top: 0;
+	}
+#widgetcol3 .colunitheader { 
+	padding: .25em 0 .18em 0;
+	margin: 0 0 0 0;
+	} 
+#widgetcol3 .standaloneheader {     
+	padding: 0 0 0 0;
+	margin: .92em 0 .25em 0; 
+	}
+#widgetcol3 .colunit {
+	padding: 3px 2px 2px 2px; 
+	margin-bottom: 0;
+	}
+#widgetcol3 .recordBody {
+     padding: .18em .42em .5em .42em;
+	}
+#widgetcol3 .recordDescription, #widgetcol3 .headerclosedarrow { 
+	margin: 0 0 0 0;
+	padding: 0 0 0 21px;
+	}
+#widgetcol3 .standaloneheader {
+     text-align: center;
+	}
+#widgetcol3 .colunitheader {
+     font-style: normal;
+	 }
+#widgetcol3 .shim {
+	height: 0;
+	}
+#widgetcol3 .shim1 {
+	height: .92em;
+	}
+/*new openshut*/
+.colunitheaderjq, .headerclosedarrowjq {
+	 font-size: 1.27em; 
+	 }
+#widgetcol3 .colunitheaderjq, #widgetcol3 .headerclosedarrowjq {
+	 font-size: 1em; 
+	 }
+#widgetcol3 .controljq img {width: 22px; height: 19px;}
+
+#widgetcol3 .dotjq {
+	background-image:url(../images/common/dotwidgetcol11px.gif);background-position: 0 -4px;	
+	}
+
+#widgetcol3 .colunitheaderjq {
+	background-image: url(../images/common/arrowopenwidgetcol3.gif); background-position: 0 7px;
+	}
+
+#widgetcol3 .headerclosedarrowjq {
+     background-image: url(../images/common/arrowclosedwidgetcol3.gif); background-position: 0 7px;
+	}
+.checkjq {
+	background-image: url(../images/common/checkmark.gif); 
+	background-position: 1px 2px; 
+	background-repeat:no-repeat;
+	}
+#widgetcol3 .colunitheaderjq, #widgetcol3 .headerclosedarrowjq { 
+     background-color: #f5f5f5; 
+	}
+#widgetcol3 .colunitheaderjq, #widgetcol3 .headerclosedarrowjq { 
+	border-bottom: solid 1px #fff; 
+	}
+#widgetcol3 .colunitheaderjq, #widgetcol3 .headerclosedarrowjq { 
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	}
+
+#widgetcol3 .recordBodyjq {
+     padding: .18em .42em .5em .42em;
+	}
+
+#widgetcol3 .recordDescriptionjq {
+     font-style: normal;
+	 }	
+#widgetcol3 .recordDescriptionjq {
+     color: #666;
+	}
+#widgetcol3 .standaloneheader {     
+	padding: 0 0 0 0;
+	margin: .92em 0 .25em 0; 
+	}
+#widgetcol3 .standaloneheader {
+	 font-size: 1em; 
+	 }
+#widgetcol3 .standaloneheader {
+	 border-bottom: none;
+	 }
+
+
+	
+a.showall, a.dlabrowselink {
+	display: block; 
+	margin-right: .5em; 
+	font-size: 90%;
+	font-weight: bold; 
+	padding-top: .58em
+	}
+.numfound, a.showall, a.dlabrowselink {float: right;}
+#widgetcol3 h3.recordDescriptionjq {
+	padding: .4em 0 .18em 0;
+	margin: 0 0 0 21px;
+	}
+#widgetcol3 .dotjq {
+	padding: 0 0 0 11px;
+	margin: .25em 0 0 0;
+	}
+.checkjq {
+	padding: 0 0 0 1.24em;
+	margin: .25em 0 0 0;	
+	}
+/*end new openshut*/	
+	
+	
+/*printer directives*/		
+body.printer #col1 {float: none;}
+body.printer #col2, body.printer #widgetcol3{display: none;}/*sidebar*/
+
+
+body.printer #col1 {
+     margin-left: 1em; 
+	margin-right: 1em; 
+	width: auto;
+	}
+

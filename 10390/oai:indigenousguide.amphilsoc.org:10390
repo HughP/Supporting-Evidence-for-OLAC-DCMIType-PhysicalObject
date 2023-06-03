@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2023-06-03T00:25:41Z</responseDate><request verb="GetRecord" identifier="oai%3Aindigenousguide.amphilsoc.org%3A10390" metadataPrefix="olac">http://www.language-archives.org/cgi-bin/olaca3.pl</request><GetRecord><record><header><identifier>oai:indigenousguide.amphilsoc.org:10390</identifier><datestamp>2020-03-02</datestamp></header><metadata><olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="
+http://purl.org/dc/elements/1.1/
+http://www.language-archives.org/OLAC/1.1/dc.xsd
+http://purl.org/dc/terms/
+http://www.language-archives.org/OLAC/1.1/dcterms.xsd
+http://www.language-archives.org/OLAC/1.1/
+http://www.language-archives.org/OLAC/1.1/olac.xsd
+"><dc:title>Zia materials, Elsie Clews Parsons papers</dc:title><dc:contributor>Kroeber, A. L. (Alfred Louis), 1876-1960</dc:contributor><dc:contributor>Parsons, Elsie Worthington Clews, 1874-1941</dc:contributor><dcterms:spatial>Zia</dcterms:spatial><dc:date>circa 1920s</dc:date><dc:description>
+			The Zia materials in the Elsie Clews Parsons papers consist of information found 5 folders titled &quot;Zuni - Notes by Alfred L. Kroeber&quot; in Subcollection II, Series IV, &quot;Research Notes,&quot; which includes some information on Zia. Some of this material may be restricted due to cultural sensitivity or privacy concerns. Additional relevant material may appear in correspondence folders.
+		</dc:description><dcterms:extent>5 folders, 1 set of potsherds</dcterms:extent><dc:identifier>https://indigenousguide.amphilsoc.org/entry/10390</dc:identifier><dc:language xsi:type="olac:language" olac:code="eng"/><dc:subject>Zia</dc:subject><dc:subject>Material culture</dc:subject><dc:subject>New Mexico--History</dc:subject><dc:subject>Rites and ceremonies</dc:subject><dc:subject>Social life and customs</dc:subject><dc:type>Potsherds</dc:type><dc:type xsi:type="dcterms:DCMIType">Text</dc:type><dc:type xsi:type="dcterms:DCMIType">PhysicalObject</dc:type></olac:olac></metadata></record></GetRecord></OAI-PMH>

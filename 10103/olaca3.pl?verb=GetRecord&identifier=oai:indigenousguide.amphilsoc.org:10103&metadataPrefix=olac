@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2023-06-03T00:56:39Z</responseDate><request verb="GetRecord" identifier="oai%3Aindigenousguide.amphilsoc.org%3A10103" metadataPrefix="olac">http://www.language-archives.org/cgi-bin/olaca3.pl</request><GetRecord><record><header><identifier>oai:indigenousguide.amphilsoc.org:10103</identifier><datestamp>2020-03-02</datestamp></header><metadata><olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="
+http://purl.org/dc/elements/1.1/
+http://www.language-archives.org/OLAC/1.1/dc.xsd
+http://purl.org/dc/terms/
+http://www.language-archives.org/OLAC/1.1/dcterms.xsd
+http://www.language-archives.org/OLAC/1.1/
+http://www.language-archives.org/OLAC/1.1/olac.xsd
+"><dc:title>Plains materials, Frank G. Speck Papers</dc:title><dc:contributor>Speck, Frank G. (Frank Gouldsmith), 1881-1950</dc:contributor><dc:date>Undated</dc:date><dc:description>
+			Speck's Plains sun dance analysis, consisting of a three-page chart of comparative features of the sun dance among various Plains tribes. Two Crow tepee ornaments of grass, sent by Frederic H. Douglas, are also enclosed in this folder.
+		</dc:description><dcterms:extent>1 folder</dcterms:extent><dc:identifier>https://indigenousguide.amphilsoc.org/entry/10103</dc:identifier><dc:language xsi:type="olac:language" olac:code="eng"/><dc:subject>Crow</dc:subject><dc:subject>Anthropology</dc:subject><dc:subject>Ethnography</dc:subject><dc:subject>Dance</dc:subject><dc:subject>Art</dc:subject><dc:subject>Specimens</dc:subject><dc:subject>Grasswork</dc:subject><dc:type>Reports</dc:type><dc:type>Charts</dc:type><dc:type>Specimens</dc:type><dc:type xsi:type="dcterms:DCMIType">Text</dc:type><dc:type xsi:type="dcterms:DCMIType">PhysicalObject</dc:type></olac:olac></metadata></record></GetRecord></OAI-PMH>
