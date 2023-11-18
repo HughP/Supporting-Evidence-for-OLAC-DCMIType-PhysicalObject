@@ -1,5 +1,4 @@
-These records were pulled June 2nd 2023. They were pulled using wget.
-
+The XML records were pulled June 2nd 2023. They were pulled using wget.
 
 For example:
 
