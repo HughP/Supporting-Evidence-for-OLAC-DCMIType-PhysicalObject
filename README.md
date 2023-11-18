@@ -1,6 +1,6 @@
 ## Methods
 
-These records were pulled June 2nd 2023. They were pulled using wget.
+These XML records were pulled June 2nd 2023. They were pulled using wget.
 
 
 For example:
@@ -11,6 +11,7 @@ wget http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&identifie
 ```
 
 ## Content Summary
+Note that the summary tables in the summary folder are richer.
 
 | Archive 	| DCMITypes on single item 	| ID 	| Note 	| Proper DCMIType 	|
 |---	|---	|---	|---	|---	|
